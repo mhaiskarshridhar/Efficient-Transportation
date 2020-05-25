@@ -1,5 +1,8 @@
 # Efficient-Transportation
+<<<<<<< HEAD
 # Efficient-Transportation
+=======
+>>>>>>> e6908b8706fa2bbaff486a04be32dcd93e7ea108
 “how does cost and travel time varies for plane vs. train travel
 within Great Britain?”
 We have transportation data in a csv file which contains Ticket cost and Time required to commute between
